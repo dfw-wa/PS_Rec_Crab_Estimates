@@ -1,4 +1,4 @@
-### Puget Sound Crab Recreational Harvest Estimation 
+### Puget Sound Dungeness Crab Recreational Harvest Estimation 
 *Last updated: 09/02/2026*
 
 This repository includes the code and data used to generate harvest estimates based on reported CRCs. It also contains data and analyses that have been done with the Joint State-Tribal Shellfish Technical Working Group. The primary folder with code for generating the catch estimates from 2023 - 2025 are under the folder **Harvest Estimates**. All functions, data and input files are stored under the folders for the respective years. 
